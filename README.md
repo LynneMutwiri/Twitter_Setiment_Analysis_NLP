@@ -1,5 +1,5 @@
 # Sentimental Analysis
-![moringa_phase4_project](https://github.com/Daniel1999Akama/moringa_phase4_project/assets/127243987/44675d35-58cc-411a-baa7-c3422ebfcd75)
+![moringa_phase4_project]((https://github.com/LynneMutwiri/Twitter_Setiment_Analysis_NLP))
 
 ## Table of Contents
 
@@ -123,6 +123,7 @@ To install and run this project, follow these steps:
 ### Collaborators
 feel free  to visit this jupyternotebook and contact below emails
 
+Lynne Mutwiri: @mutwirilynnek@gmail.com
 
 Rosemary Nyakio: @nyakio19roseary@gmail.com
 
@@ -131,8 +132,6 @@ Maureen Anduuru: @moesaitia@gmail.com
 Daniel Akama: @danielakama23@gmail.com
 
 Leah Katiwa: @katiwaleah26@gmail.com
-
-Lynne Mutwiri: @mutwirilynnek@gmail.com
 
 Brian Nderu: @briannga00@gmail.com
 
